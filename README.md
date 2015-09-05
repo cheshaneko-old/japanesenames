@@ -1,2 +1,2 @@
 # japanesenames
-Random jananese name
+Python command tool (and library) for random generate japanese names
